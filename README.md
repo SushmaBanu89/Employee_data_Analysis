@@ -2,7 +2,7 @@
 🔍 Objective / Description: Performed exploratory data analysis (EDA) and manipulation on an employee salary dataset using SQL to gain insights into job roles, pay structure, and employee distribution. The analysis includes aggregations, filters, data cleaning, and updates to simulate real-world HR/payroll data queries.
 
 
-Employee-Salary-SQL-Analysis
+**Employee-Salary-SQL-Analysis**
 🛑 Business Problems
 1.	Overpaid job roles without clear justification
 2.	Many employees have zero Overtime Pay
@@ -14,8 +14,8 @@ Employee-Salary-SQL-Analysis
 8.	Unequal distribution of job titles and unclear role definitions
 9.	No insight into job diversity or hiring distribution
 10.	Lack of understanding of employee pay structure trends
-________________________________________
-✅ Business Solutions
+**________________________________________
+✅ Business Solutions**
 1.	Analyze high-paying roles and align compensation with industry benchmarks and responsibilities
 2.	Investigate departments with no overtime, improve time-tracking, and optimize workload distribution
 3.	Identify and support mid-range earners with retention strategies and career development programs
